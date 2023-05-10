@@ -34,7 +34,7 @@ The ensemble model is evaluated using 10-fold cross-validation.
 The performance of the individual models and the ensemble model is evaluated using various metrics, including accuracy, precision, recall, and F1-score. 
 The results show that the ensemble model outperforms the individual models in terms of F1-score, with an F1-score of 0.716.
 
-Dependencies
+## Dependencies
 The project requires the following dependencies:
 
 - Python 3.7+
