@@ -13,7 +13,7 @@ The text is then transformed into numerical features using the TF-IDF vectorizer
 Feature selection is performed using mutual information, and the data is scaled using MinMaxScaler.
 
 ## Models
-Three different classification models are used for gender classification: 
+8 different classification models are used for gender classification: 
 - Logistic Regression: lr 
 - SGDClassifier: Stochastic Gradient Descent Classifier
 - Perceptron: Perceptron Classifier
